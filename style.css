@@ -52,10 +52,10 @@ nav {
     top: 0;
     bottom: 0;
     left: -100%;
-    width: 50%;
+    width: 70%;
     background: white;
     border-right: 2px solid rgb(104, 104, 104);
-    box-shadow: 0 0 0 black;
+    box-shadow: 8px 0px 20px 0px #000000ab;
 
     display: flex;
     justify-content: center;
