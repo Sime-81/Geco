@@ -1,0 +1,32 @@
+1 couche de choix:
+
+Story mode : 
+
+- classe social alèatoire = salaire aléatoire
+
+
+Simulation  par metier mode : 
+
+- Le choix reviens à l'utilisate de choisir son metiers
+
+
+
+Simulation total mode: 
+
+- l'utilisateur à un contrôle totale des paramètres
+
+
+______________________________________________________________
+Carte appening
+
+Titre : ...
+
+Descritpion : ....
+
+Classe affecté: ... (Qui ça va affecté)
+
+Régions : ... (Quelo région du monde)
+
+Répércution : ... (positif ou négatif)
+
+_____________________________________________________________

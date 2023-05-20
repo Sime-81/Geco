@@ -16,7 +16,7 @@ nav {
     text-align: center;
     padding: 10px 0;
     width: 100%;
-    background: rgb(250, 212, 212);
+    background: #07ed63;
     user-select: none;
 }
 
@@ -73,6 +73,7 @@ nav {
     left: 10px;
     top: 10px;
     font-size: 2rem;
+    cursor: pointer;
 }
 
 .text {
