@@ -1,11 +1,11 @@
 export const projectsData = [
   {
     id: 1,
-    title: "Casta",
-    date: "Janvier 2020",
+    title: "Simulator",
+    date: "September 2023",
     languages: ["React", "Php", "Sass"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
+      "here's our simulator to help you get to grips with economics and budget management.",
     img: "./assets/img/projet-2.jpg",
     link: "http://www.google.com",
   },
