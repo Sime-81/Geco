@@ -13,7 +13,7 @@ const Navigation = () => {
         </NavLink>
 
         <li className="nav-portfolio">
-          portfolio
+          learning
           <ul className="nav-projects">
             <NavLink
               to="/projet-1"

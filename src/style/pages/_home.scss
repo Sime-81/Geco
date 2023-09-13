@@ -3,6 +3,11 @@
   width: 100vw;
   position: absolute;
 
+  @media screen and (max-width: 500px) {
+    overflow: hidden;
+
+  }
+
   &:after {
     content: '';
     height: 800px;
@@ -51,6 +56,9 @@
         @media screen and (max-width: 770px){
           font-size: 2rem;
         }
+        @media screen and (max-width: 450px) {
+          font-size: 1.5rem;
+        }
         @media screen and (min-width: 1200px){
           font-size: 5rem;
         }
@@ -74,6 +82,12 @@
             left: -40px;
             top: -15px;
           }
+          @media screen and (max-width: 450px) {
+            height: 80px;
+            width: 80px;
+            left: -40px;
+            top: -15px;
+          }
 
           @keyframes h1Anim {
             to {
@@ -90,6 +104,9 @@
         @media screen and (max-width: 770px){
           font-size: 2rem;
           margin-left: 100px;
+        }
+        @media screen and (max-width: 450px) {
+          font-size: 1.5rem;
         }
         @media screen and (min-width: 1200px){
           font-size: 5rem;
